@@ -1,14 +1,14 @@
 [
 {
-  "modid": "Currency Mod",
-  "name": "Good Ol' Currency Mod",
-  "description": "Allows players to create currency and an economy",
+  "modid": "inersery",
+  "name": "InerseryGeld",
+  "description": "Damit können Spieler eine Wirtschaft aufbauen.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["BeardlessBrady"],
-  "credits": "The Forge and FML guys",
+  "authorList": ["BeardlessBrady", "SP46"],
+  "credits": "Die Jungs von Forge für die gute Dokumentation",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
